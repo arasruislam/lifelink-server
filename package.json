@@ -1,0 +1,9 @@
+{
+  "name": "lifelink",
+  "version": "1.0.0",
+  "description": "LifeLink is a web-based blood donation management system",
+  "main": "index.js",
+  "repository": "https://github.com/arasruislam/lifelink-server.git",
+  "author": "Muhammad Ashraful Islam",
+  "license": "MIT"
+}
